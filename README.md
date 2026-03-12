@@ -1,4 +1,4 @@
-# competativecoding
+# competitivecoding
 competative coding class
 <br>
 <head> Basic git commands by antrix</head><br>
